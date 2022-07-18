@@ -1,2 +1,2 @@
 # Desafios do bootcamp DIO - Órbi Web Games Developer
-Repositório destinado a desafios do bootcamp da DIO
+Repositório destinado a desafios do bootcamp da DIO - Órbi Web Games Developer
